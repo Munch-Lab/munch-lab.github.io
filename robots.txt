@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://munchlab.org//sitemap.xml
+Sitemap: https://munch-lab.github.io//sitemap.xml
