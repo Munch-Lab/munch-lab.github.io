@@ -18,15 +18,15 @@ layout: page
                 {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.25}}px, (min-width: 992px) 25vw, (min-width: 768px) 50vw, 95vw"{% endcapture %}
                 {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.image style="max-width:80%; height:auto;" %}
               {% endif %}
-              
+
               <div class="card-body text-center">
                 {% if profile.more_info %}
                   <div class="more-info">{{ profile.more_info }}</div>
                 {% endif %}
                 <div class="social-icons">
-                 {% if profile.email %}
- 		   <a href="mailto:{{ profile.email | encode_email  }}" title="Email"> <i class="fas fa-envelope fa-lg"></i></a>
-{% endif %}
+                  {% if profile.email %}
+                    <a href="mailto:{{ profile.email | encode_email  }}" title="Email"> <i class="fas fa-envelope fa-lg"></i></a>
+                  {% endif %}
                   {% if profile.linkedin %}
                     <a href="{{ profile.linkedin }}" target="_blank" title="LinkedIn"><i class="fab fa-linkedin fa-lg"></i></a>
                   {% endif %}

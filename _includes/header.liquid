@@ -4,7 +4,11 @@
     <div class="container">
       {% if page.permalink != '/' %}
         <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
-        <img style="display: inline-block; vertical-align: middle; padding-right: 5px; margin-bottom: 2px; height: 40px;" src="{{ 'munchlab_favico.png' | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}" alt="Münch Lab logo, a winged brain munching cookies">
+          <img
+            style="display: inline-block; vertical-align: middle; padding-right: 5px; margin-bottom: 2px; height: 40px;"
+            src="{{ 'munchlab_favico.png' | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}"
+            alt="Münch Lab logo, a winged brain munching cookies"
+          >
           {% if site.title == 'blank' %}
             {% if site.first_name %}
               <span class="font-weight-bold">

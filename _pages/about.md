@@ -22,8 +22,8 @@ announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
-
 ---
+
 Welcome to the Münch Lab 🧠🪰. We’re fascinated by how the brain processes sensory information, especially smell and taste 👃👅. Using the fruit fly <i>Drosophila melanogaster</i> as our model, we investigate how olfactory and gustatory cues are represented in the brain, how they interact, and how they influence feeding-related behaviors like food choice.
 
 To tackle these questions, we combine advanced imaging 🔬, cutting-edge genetic tools 🧬, and detailed behavioral analysis 🎥. Our goal is to uncover the neural circuits and computations that translate sensory input into meaningful action.
