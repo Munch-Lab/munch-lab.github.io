@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "<i>It’s All About the Munchies: Sensory Processing in the Fly Brain,</i>"
+subtitle: "<i>It’s All About the Munchies: Sensory Processing in the Fly Brain</i>"
 
 profile:
   align: right
