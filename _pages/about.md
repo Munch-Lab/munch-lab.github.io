@@ -10,8 +10,8 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Justus-Liebig-University</p>
-    <p>Inst. of Animal Physiology</p>
-    <p>Heinrich-Buff-Ring 38</p>
+    <p><a href="https://www.uni-giessen.de/de/fbz/fb08/Inst/tphys">Inst. of Animal Physiology</a></p>
+    <p><a href="https://maps.app.goo.gl/uG6vnF2RyouPTcmo9">Heinrich-Buff-Ring 38</a></p>
     <p>35392 Giessen, Germany</p>
     <p>🕿 +49 641-99 35051</p>
 
