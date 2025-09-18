@@ -28,7 +28,7 @@ profiles:
       <p>Secretary</p>
     email: Katrin.Heber@physzool.bio.uni-giessen.de
 
-  - image: prof_pic_empty.jpg
+  - image: prof_pic_MirjamBuss.jpg
     image_circular: false
     more_info: >
       <h5>Mirjam Buß</h5>
