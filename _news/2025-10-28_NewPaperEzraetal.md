@@ -10,5 +10,4 @@ related_posts: false
 Collaboration with **Gili Ezra Nevo** and **Silvia Henriques** from **Ribeiro lab** shows how amino acid–driven appetite 🍽️ reshapes olfactory receptor expression 👃, guiding flies 🪰 to seek bacteria 🦠 and fermented cues 🥫.<br>
 
 📰 [Read more on Champalimaud News](https://www.fchampalimaud.org/news/nose-microbes-how-hunger-tunes-brain)  
-🔗 [Paper in Current Biology](https://www.cell.com/current-biology/fulltext/S0960-9822(25)01262-X)
-
+🔗 [Paper in Current Biology](<https://www.cell.com/current-biology/fulltext/S0960-9822(25)01262-X>)
