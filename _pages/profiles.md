@@ -29,7 +29,6 @@ profiles:
     email: Suchismita.Mazumdar@uni-giessen.de
     linkedin: https://www.linkedin.com/in/suchismita-mazumdar-278578219/
 
-
   - image: prof_pic_KatrinHeber.jpg
     image_circular: false
     more_info: >
