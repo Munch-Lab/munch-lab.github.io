@@ -21,6 +21,14 @@ profiles:
     linkedin: https://www.linkedin.com/in/danielmuench/
     bluesky: https://bsky.app/profile/dahaniel.muench.bio
 
+  - image: prof_pic_SuchismitaMazumdar.jpg
+    image_circular: false
+    more_info: >
+      <h5>Suchismita Mazumdar</h5>
+      <p>PhD Student</p>
+    email: Suchismita.Mazumdar@uni-giessen.de
+    linkedin: https://www.linkedin.com/in/suchismita-mazumdar-278578219/
+
   - image: prof_pic_KatrinHeber.jpg
     image_circular: false
     more_info: >
