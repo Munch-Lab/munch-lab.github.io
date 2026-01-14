@@ -27,7 +27,7 @@ profiles:
       <h5>Suchismita Mazumdar</h5>
       <p>PhD Student</p>
     email: Suchismita.Mazumdar@uni-giessen.de
-    linkedin: https://www.linkedin.com/in/suchismita-mazumdar-278578219/
+    linkedin: https://www.linkedin.com/in/suchi-mazumdar-7ba90212a/
 
   - image: prof_pic_KatrinHeber.jpg
     image_circular: false
