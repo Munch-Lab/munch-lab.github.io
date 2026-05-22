@@ -49,4 +49,22 @@ profiles:
       <h5>Anja Schnecko</h5>
       <p>Technician</p>
     email: Anja.Schnecko@physzool.bio.uni-giessen.de
+
+  - image: prof_pic_empty.jpg
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <h5>Leonie Meister</h5>
+      <p>Bachelor's student</p>
+      
+  - image: prof_pic_empty.jpg
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <h5>Aimee Mia Schloß</h5>
+      <p>Bachelor's student</p>
+      
+  - image: prof_pic_empty.jpg
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <h5>Lisa-Marie Orth</h5>
+      <p>Bachelor's student</p>
 ---
