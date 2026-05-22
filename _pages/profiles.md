@@ -25,7 +25,7 @@ profiles:
     image_circular: false
     more_info: >
       <h5>Suchismita Mazumdar</h5>
-      <p>PhD Student</p>
+      <p>PhD student</p>
     email: Suchismita.Mazumdar@uni-giessen.de
     linkedin: https://www.linkedin.com/in/suchi-mazumdar-7ba90212a/
 
