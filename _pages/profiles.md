@@ -56,7 +56,7 @@ profiles:
       <h5>Leonie Meister</h5>
       <p>Bachelor's student</p>
       
-  - image: prof_pic_AimeeSchloss.jpg
+  - image: prof_pic_empty.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
       <h5>Lisa-Marie Orth</h5>
